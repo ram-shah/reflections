@@ -15,3 +15,6 @@ It makes me see at what commit level a branch was created and also how many bran
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 All the changes from both branches are merged in one commit. The diagram provides a great visual picture of how the commits are stacked
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic  merging can save a lot of effort if the chnages are not conflicting.
