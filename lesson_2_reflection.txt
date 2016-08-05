@@ -9,3 +9,6 @@ Do git add and move files from working directory to staging area
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When we need to add a new feature, it is helpful to create a new branch
+
+How do the diagrams help you visualize the branch structure?
+It makes me see at what commit level a branch was created and also how many branches and there current state now
