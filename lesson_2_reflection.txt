@@ -3,3 +3,6 @@ git starts tracking that directory by creating a .git directory to store metadat
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It stores intermittent states
+
+How can you use the staging area to make sure you have one commit per logical change?
+Do git add and move files from working directory to staging area
