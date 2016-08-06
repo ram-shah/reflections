@@ -11,3 +11,6 @@ fork is when we want to create a copy of someone else repository in our own gith
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This can be helpfl when there is no internet connection. PLus it is helpful to fetch changes happening on remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+BY passing files around in emails. There would be no merge conflicts. IT would be difficult to see what chnages are done by other developer
