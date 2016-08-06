@@ -14,3 +14,6 @@ This can be helpfl when there is no internet connection. PLus it is helpful to f
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 BY passing files around in emails. There would be no merge conflicts. IT would be difficult to see what chnages are done by other developer
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we are working on something that we will have to colloborate on or seek feedback from others, it's best to create a new branch. Working on master directly will prevent a lot of effort of pull\push and merge but creating different branch has an advantage of not dirting the master branch
